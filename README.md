@@ -1,4 +1,4 @@
-# project
+# Amazon clone app
 
 #This project is a basic static clone of Amazon's e-commerce platform, built using only HTML and CSS. It replicates the design of key Amazon pages, including the home page, product listings, and product detail pages. The project focuses on front-end development, showcasing the layout, structure, and styling without dynamic functionality (JavaScript or backend integration).
 
